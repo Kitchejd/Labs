@@ -1,0 +1,10 @@
+import time 
+
+print  ("My age is ", 2023-1981)
+
+name='JustinKitchen'
+print("My name is ", name)
+print("MY intials ",name[0], name[6])
+
+time_string = time.strftime("%I:%M:%S")
+print("This is the current time of ",time_string)
